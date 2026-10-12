@@ -30,6 +30,7 @@ The environment and tools used may vary depending on each exercise.
 | Lab | Topic | Status |
 |---|---|---|
 | 01 | Installing the Virtual Machines | Planned |
+| 02 | [Cybersecurity Case Studies](02-cybersecurity-case-studies/README.md) | Completed |
 
 *Lab status will be updated as each exercise is completed and documented.*
 
