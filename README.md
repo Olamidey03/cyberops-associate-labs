@@ -27,12 +27,13 @@ The environment and tools used may vary depending on each exercise.
 
 ## Lab Index
 
-| Lab | Title | Status |
+| Lab | Topic | Status |
 |---|---|---|
 | 01 | Installing the Virtual Machines | Planned |
 | 02 | [Cybersecurity Case Studies](02-cybersecurity-case-studies/README.md) | Completed |
 | 03 | [Learning the Details of Attacks](03-learning-the-details-of-attacks/README.md) | Completed |
 | 04 | [Visualizing the Black Hats](04-visualizing-the-black-hats/README.md) | Completed |
+| 05 | [Becoming a Defender](05-becoming-a-defender/README.md) | Completed |
 
 *Lab status will be updated as each exercise is completed and documented.*
 
